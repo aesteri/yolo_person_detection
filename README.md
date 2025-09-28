@@ -2,9 +2,11 @@
 
 ## Dev
 
-``` conda create --name yolo_person_detection python=3.10
-conda activate yolo_person_detection
-pip install -r requirements.txt ```
+``` conda create --name yolo_person_detection_env python=3.10```
+
+``` conda activate yolo_person_detection_env```
+
+``` pip install -r requirements.txt ```
 
 Run person detection:
 
